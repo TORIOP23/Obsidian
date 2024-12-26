@@ -1,0 +1,15 @@
+{
+  "minimal-style@@h1-color@@light": "#1A73E8",
+  "minimal-style@@h1-color@@dark": "#1A73E8",
+  "minimal-style@@h2-color@@light": "#0F9D58",
+  "minimal-style@@h2-color@@dark": "#0F9D58",
+  "minimal-style@@h3-color@@light": "#FBBC05",
+  "minimal-style@@h3-color@@dark": "#FBBC05",
+  "minimal-style@@h4-color@@light": "#FF7043",
+  "minimal-style@@h4-color@@dark": "#FF7043",
+  "minimal-style@@h5-color@@light": "#5C6BC0",
+  "minimal-style@@h5-color@@dark": "#5C6BC0",
+  "minimal-style@@h6-color@@light": "#9E9E9E",
+  "minimal-style@@h6-color@@dark": "#9E9E9E",
+  "minimal-style@@h1-l": true
+}

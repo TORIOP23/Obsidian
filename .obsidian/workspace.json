@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3901bdb85939ec1",
+        "id": "7795638cf1f82af8",
         "type": "tabs",
         "children": [
           {
-            "id": "97b74e0571e4042f",
+            "id": "021aae2a49e2b943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Framework/Spring/Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -38,12 +34,14 @@
             "id": "8542d30e988cace5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "AI/Communicating, perceiving, and acting/Communicating, perceiving, and acting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Communicating, perceiving, and acting"
             }
           },
           {
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,13 +70,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6a13c71465c52f29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "f2d0a6059eb25da2",
@@ -94,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -145,12 +154,11 @@
               "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 265.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,20 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b74e0571e4042f",
+  "active": "021aae2a49e2b943",
   "lastOpenFiles": [
-    "Build Tool/Gradle.md",
-    "Framework/Spring/Spring.md",
-    "Framework/Spring/Spring Boot.md",
-    "Build Tool/Build Tool.md",
-    "Build Tool",
-    "Build Tool/Maven.md",
-    "Untitled.md",
-    "Framework/Spring/Spring Framework.md",
-    "AI/AI.md",
+    "UML/Activity Diagrams.md",
+    "UML/Timing Diagrams.md",
+    "UML/timing-diagram.png",
+    "UML/Interaction overview Diagrams.md",
+    "UML/interaction-diagram.png",
+    "UML/Communication Diagrams.md",
+    "UML/communication-diagram.png",
+    "UML/Sequence Diagrams.md",
+    "UML/sequence-diagram.png",
+    "UML/State Machine Diagrams.md",
+    "UML/state-diagram.png",
+    "UML/activity-diagram.png",
+    "UML/usecase-diagram.png",
+    "UML/Usecase Diagrams.md",
+    "UML/Composite Structure Diagrams.md",
+    "UML/composite-structure-diagram.png",
+    "UML/profile-diagram.png",
+    "UML/Profile Diagrams.md",
+    "UML/Package Diagrams.md",
+    "UML/package-diagram.png",
+    "UML/Object Diagrams.md",
+    "UML/Deployment Diagrams.md",
+    "UML/Component Diagrams.md",
+    "UML/UML.md",
+    "UML/Class Diagrams.md",
     "Socket.md",
-    "Framework/Spring",
-    "Framework",
-    "AI"
+    "Framework/Spring/Spring Boot.md",
+    "UML",
+    "AI/Communicating, perceiving, and acting/NLP/Deep Learning for NLP.md",
+    "AI/Communicating, perceiving, and acting/NLP/NLP.md",
+    "AI/Communicating, perceiving, and acting/NLP/Language Models.md",
+    "AI/Communicating, perceiving, and acting/Communicating, perceiving, and acting.md",
+    "AI/AI.md",
+    "AI/Communicating, perceiving, and acting/NLP/Language Model.md",
+    "AI/Communicating, perceiving, and acting/Computer Vison/Computer Vision.md",
+    "AI/Communicating, perceiving, and acting/Computer Vison",
+    "AI/Communicating, perceiving, and acting/NLP",
+    "AI/Uncertain knowledge and reasoning/Uncertain knowledge and reasoning.md",
+    "AI/Uncertain knowledge and reasoning",
+    "AI/Problem solving",
+    "AI/Knowledge, reasoning and planning",
+    "AI/ML",
+    "AI/Communicating, perceiving, and acting",
+    "AI/Untitled.canvas",
+    "AI/AIMA.pdf",
+    "Build Tool"
   ]
 }

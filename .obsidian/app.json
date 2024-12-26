@@ -1,4 +1,5 @@
 {
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "alwaysUpdateLinks": true
 }
