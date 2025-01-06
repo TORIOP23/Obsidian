@@ -1,0 +1,3 @@
+- frame
+- Dịch bit 01 thành cấu trúc Ethernet frame có thể đọc hiểu được - 8 bit đầu là gì, 8 bit sau là gì
+- Ethernet

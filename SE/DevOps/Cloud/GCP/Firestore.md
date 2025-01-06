@@ -1,0 +1,5 @@
+- Document:
+    - Key-value, Size < 1 MB
+    - Can not contain another document
+- Collection: just contain document
+- Firestore root jus contain collection

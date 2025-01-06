@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,37 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:AI ",
+      "query": "path:AI  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Framework  ",
+      "query": "path:SE/Document/UML  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:UML  ",
+      "query": "path:\"SE/General/Design Patterns\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:SE  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.1,
-  "nodeSizeMultiplier": 1.14037272135417,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.9984130859375,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.4952392578125,
-  "repelStrength": 12.4812825520833,
+  "centerStrength": 0.481119791666667,
+  "repelStrength": 16.6438802083333,
   "linkStrength": 1,
-  "linkDistance": 238,
-  "scale": 0.9905922567622777,
-  "close": true
+  "linkDistance": 258,
+  "scale": 0.5235576305480181,
+  "close": false
 }

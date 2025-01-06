@@ -1,0 +1,2 @@
+- GIao tiếp thời gian thực không thông qua máy chủ
+- Socket phải thông qua máy chủ

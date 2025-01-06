@@ -1,5 +1,6 @@
 {
   "showInlineTitle": true,
   "showRibbon": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }

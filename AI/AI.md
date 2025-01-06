@@ -1,3 +1,6 @@
+---
+node_size: "100"
+---
 - AI as the study of agents that receive percepts from the environment and perform actions
 # Acting humanly: The Turing test approach
 - Ngừng bắt chước loài chim và bắt đầu tìm hiểu khí động học

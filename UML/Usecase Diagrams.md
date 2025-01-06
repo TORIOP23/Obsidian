@@ -1,2 +1,0 @@
-- Give a graphic overview of the actors involved in a system, different function needed by those actors
-- ![[usecase-diagram.png]]
