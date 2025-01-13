@@ -1,0 +1,5 @@
+- Logical Agents
+- First-Order Logic
+- Inference in First-Order Logic
+- Knowledge Representation
+- Automated Planning

@@ -2,6 +2,9 @@
 node_size: "6"
 ---
 ## [[Build Tool]]
+## Runtime environment
+- NodeJS
+- BunJS
 ## Web Server
 - Nginx
 - Apache

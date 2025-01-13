@@ -24,9 +24,7 @@ We must know human think
 A rational agent is one that acts so as to achieve the best outcome
 - Thông thường hành động hợp lý thường là hành động theo suy luận. Cũng có 1 vài hành động hợp lý không liên quan tới suy luận như rụt tay lại khi chạm vào nước nóng, là 1 hành động phản xạ
 
-## Intelligent Agents
-
-
+## [[Intelligent Agents]]
 ## [[Problem solving]]
 ## [[Knowledge, reasoning and planning]]
 ## [[Uncertain knowledge and reasoning]]

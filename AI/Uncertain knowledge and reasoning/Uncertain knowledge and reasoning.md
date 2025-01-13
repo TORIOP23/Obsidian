@@ -1,0 +1,7 @@
+- Quantifying Uncertainty
+- Probabilistic Reasoning
+- Probabilistic Reasoning over Time
+- Probabilistic Programming
+- Making Simple Decisions
+- Making Complex Decisions
+- Multiagent Decision Making

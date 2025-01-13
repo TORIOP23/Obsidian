@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43ee80850390b427",
+        "id": "1901cbe738e3db6a",
         "type": "tabs",
         "children": [
           {
-            "id": "36e6dbdee1b091ba",
+            "id": "359581637551c299",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "f2d0a6059eb25da2",
@@ -172,8 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36e6dbdee1b091ba",
+  "active": "359581637551c299",
   "lastOpenFiles": [
+    "AI/Giao-trinh-Tri-tue-nhan-tao-8_4_2024.pdf",
+    "Resource.md",
+    "AI/ML/ML.md",
+    "AI/Communicating, perceiving, and acting/NLP/Deep Learning for NLP.md",
+    "AI/Communicating, perceiving, and acting/NLP/NLP.md",
+    "AI/Communicating, perceiving, and acting/NLP/Language Models.md",
+    "AI/Communicating, perceiving, and acting/Communicating, perceiving, and acting.md",
+    "AI/AI.md",
+    "AI/Uncertain knowledge and reasoning/Uncertain knowledge and reasoning.md",
+    "AI/Knowledge, reasoning and planning/Knowledge, reasoning and planning.md",
+    "AI/Problem solving/Problem solving.md",
+    "AI/Intelligent Agents.md",
+    "SE/General/Framework/Spring/Spring.md",
+    "AI/agent.png",
+    "AI/AIMA.pdf",
+    "SE/General/General.md",
+    "SE/General/Framework/Framework.md",
+    "SE/General/Framework/NextJS.md",
+    "SE/DevOps/DevOps.md",
+    "SE/DevOps/Build Tool/Build Tool.md",
     "SE/General/DBMS/DBMS.md",
     "BlockChain/BlockChain.md",
     "BlockChain/blockchain-3.png",
@@ -189,37 +208,17 @@
     "SE/Mobile/Mobile.md",
     "SE/Mobile/Android/Dagger & Hilt.md",
     "SE/Mobile/Android",
-    "SE/Mobile/IOS.md",
-    "SE/General/General.md",
-    "SE/SE.md",
     "SE/Mobile",
-    "OS/Linux/Command line.md",
-    "OS/Linux/Linux.md",
-    "OS/Linux/Linux startup.md",
     "OS/Linux/linux-startup.png",
-    "OS/Linux/Linux Folder.md",
     "OS/Linux/linux-2.png",
     "OS/Linux",
     "OS/Linux/linux-1.png",
-    "SE/General/Language/Language.md",
-    "SE/General/Language/Shell Script.md",
     "SE/General/Language",
-    "Resource.md",
-    "SE/FE/FE.md",
-    "Network/Network.md",
-    "Security/Security.md",
-    "SE/DevOps/DevOps.md",
-    "SE/DevOps/Git/Git.md",
-    "SE/DevOps/Git/Lisence.md",
     "SE/DevOps/Git/git-2.png",
-    "SE/DevOps/Git/git-3.png",
     "SE/DevOps/Git",
-    "SE/General/Design Patterns/Composite.md",
-    "SE/General/Design Patterns/Abstract Factory.md",
     "Pub",
     "SE/DevOps/Cloud/GCP",
     "SE/DevOps/Cloud",
-    "OS",
     "AI/Untitled.canvas"
   ]
 }
