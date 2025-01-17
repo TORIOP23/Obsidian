@@ -20,3 +20,8 @@ Learning Probabilistic Models
 - 
 Deep Learning
 Reinforcement Learning
+
+# Reference
+- [[AIMA.pdf]]
+- [[book_ML_color.pdf]]
+- [machinelearningcoban](https://machinelearningcoban.com/)

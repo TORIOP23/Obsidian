@@ -32,5 +32,6 @@ A rational agent is one that acts so as to achieve the best outcome
 ## [[Communicating, perceiving, and acting]]
 
 # Reference
-- [AIMA.pdf](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)
-- [AIMA-web](https://aima.cs.berkeley.edu/comments.html)
+- [[AIMA.pdf]]
+- [CS188 - Lectures](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
+
