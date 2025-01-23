@@ -2,6 +2,7 @@
 - [[Spring Boot]]
 - [[Spring Framework]]
 - Spring Data 
+- [[Spring GraphQL]]
 ## Build Tool
 - [[Gradle]]
 - [[Maven]]
@@ -11,5 +12,7 @@
 
 ## Reference
 - [Spring Academy - gmail slave](https://spring.academy/)
+- [Spring-playground](https://github.com/TORIOP23/Spring-playground)
+- 
 
 

@@ -31,6 +31,8 @@ A rational agent is one that acts so as to achieve the best outcome
 ## [[ML]]
 ## [[Communicating, perceiving, and acting]]
 
+## [[AI Service]]
+
 # Reference
 - [[AIMA.pdf]]
 - [CS188 - Lectures](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)

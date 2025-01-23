@@ -1,0 +1,3 @@
+- A query language for your API
+- Developed by Meta in 2012
+- Open-sourced in 2015

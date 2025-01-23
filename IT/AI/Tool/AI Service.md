@@ -1,0 +1,10 @@
+# Hosting
+
+| Name                           | Model | Description                                       |
+| ------------------------------ | ----- | ------------------------------------------------- |
+| LM Studio                      | LLM   | For personal use, run local                       |
+| Ollama                         | LLM   | For personal use, run local                       |
+| [LocalAI](https://localai.io/) |       | For personal use, run local                       |
+| vLLM                           | LLM   | BE, expose API, handle multiple request very fast |
+# Other
+- [OpenRouter](https://openrouter.ai/) - interface for LLMs
