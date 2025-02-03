@@ -1,0 +1,2 @@
+- Một thư viện Java giúp quản lý **khả năng chịu lỗi** (**fault tolerance**) của ứng dụng
+- Spring Cloud Circuit Breaker

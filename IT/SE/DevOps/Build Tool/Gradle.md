@@ -25,6 +25,11 @@ gradle bootJar # create an executable jar
     - have inputs
     - execute an action
     - can generate outputs
+### Cache
+- Local cache
+- Remote cache
+	- Docker 
+	- Develocity
 # Dependency management
 ## Dependency
 Type
