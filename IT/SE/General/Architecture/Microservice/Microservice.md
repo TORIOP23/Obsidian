@@ -26,3 +26,13 @@ Example
 Example
 - [[Prometheues]]
 - [[Grafana]]
+
+## ELK
+- **Elasticsearch**:  Công cụ tìm kiếm phân tán
+- **Kibana** là một công cụ trực quan hóa dữ liệu
+- **Logstash** là một công cụ thu thập, xử lý và chuyển đổi dữ liệu trước khi gửi vào **Elasticsearch** hoặc các hệ thống lưu trữ khác
+
+## Kafka
+- Zookeeper 
+- Schema-registry 
+- Kafka Broker

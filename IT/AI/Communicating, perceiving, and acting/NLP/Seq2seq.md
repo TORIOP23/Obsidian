@@ -1,0 +1,2 @@
+- Nhận input là một sequence và trả lại output cũng là một sequence.
+- Encoder và decoder

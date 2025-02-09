@@ -1,0 +1,1 @@
+- Default database: SQLite. Support PostgresDB

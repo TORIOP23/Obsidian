@@ -1,3 +1,6 @@
+[[Command line]]
+[[Linux startup]]
+
 ## [[Linux Folder]]
 ## Hyprland
 - Wayland compositor

@@ -1,11 +1,6 @@
-3 reasons for computers to do NLP
-- To communicate with humans
-- To lean 
-- To advance the scientific understanding
-
-- The process of dividing a text into a sequence of words is called tokenization
+- Natural language understanding (NLU)
+- Natural language generation (NLG)
 ## [[Language Models ]]
-
 ## Grammar
 - Set of rules that defines the tree structure of allowable phrases, 
 - Idea: Hierarchical syntactic structure
@@ -25,14 +20,26 @@
 ## Complications of Real Natural Language
 - Quantification
 - Pragmatics , ...
-## Natural Language Task
-- Speech recognition
-- Text-to-speech
-- Machine translation
-- Information extraction
-- Information retrieval
-- Question Answering
 
-# [[Deep Learning for NLP]]
+# Deep Learning for NLP
+## [[Word Embeddings ]]
+## RNN for NLP
+- Use of recurrent neutral networks to capture meaning and long-distance context as text is processed sequentially
+## [[Seq2seq]]
+## [[Transformer model]]
 
-- [[LLM]]
+## [[LLM]]
+
+[[BPE]]
+
+# NLP Task
+## [[Tech-to-speech]]
+
+# Evaluation
+NLP Metrics
+## BLEU Score
+## WER - Word Error Rate
+
+
+# Reference
+https://huggingface.co/learn/nlp-course/chapter1/1

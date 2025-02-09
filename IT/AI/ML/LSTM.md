@@ -1,0 +1,2 @@
+- 1991
+- giải quyết vấn đề Gradient Vanishing trên RNNs

@@ -36,4 +36,9 @@ A rational agent is one that acts so as to achieve the best outcome
 # Reference
 - [[AIMA.pdf]]
 - [CS188 - Lectures](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
+Couse
+- https://community.deeplearning.ai/c/course-q-a/406
+- https://www.deeplearning.ai/
+- https://www.datacamp.com/
+- fast.ai 
 

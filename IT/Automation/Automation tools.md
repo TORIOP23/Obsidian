@@ -1,6 +1,6 @@
 # Workflow automation tool
 
-- n8n
+- [[n8n]]
 
 | Name   | Open source | Cost      |
 | ------ | ----------- | --------- |

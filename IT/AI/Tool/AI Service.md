@@ -8,3 +8,9 @@
 | vLLM                           | LLM   | BE, expose API, handle multiple request very fast |
 # Other
 - [OpenRouter](https://openrouter.ai/) - interface for LLMs
+
+# Dev
+- [Hugging face](https://huggingface.co/) - build, deploy and train machine learning models
+## Library
+- [[PyTorch]]
+- [[TensorFlow]] 
