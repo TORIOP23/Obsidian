@@ -1,4 +1,7 @@
-- Natural language understanding (NLU)
+---
+node_size: "6"
+---
+ư- Natural language understanding (NLU)
 - Natural language generation (NLG)
 ## [[Language Models ]]
 ## Grammar
@@ -26,15 +29,13 @@
 ## RNN for NLP
 - Use of recurrent neutral networks to capture meaning and long-distance context as text is processed sequentially
 ## [[Seq2seq]]
-## [[Transformer model]]
+## [[Transformers]]
 
 ## [[LLM]]
 
 [[BPE]]
 
-# NLP Task
-## [[Tech-to-speech]]
-
+# [[NLP Tasks]]
 # Evaluation
 NLP Metrics
 ## BLEU Score

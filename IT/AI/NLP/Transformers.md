@@ -1,3 +1,4 @@
+# Architecture
 - Attention is all you need - 2017
 ![[transformer.png]]
 ## Encoder
@@ -13,17 +14,13 @@
 ### Masked Multi-head Attention
 ### Quá trình decode
 
-# Variant
-- [[BERT]] - only encoder
-- BART
-- DPR bi-encoders
-- DistilBERT
-- ELECTRA
-- MobileBERT
-- RoBERTa
-- RetriBERT
-- MPNet
-- SentenceTransformers bi-encoders with the above transformer architectures
+# Transformer model
+- [[Decoder models |GPT-like]] (also called _auto-regressive_ Transformer models)
+- [[Encoder models|BERT-like]] (also called _auto-encoding_ Transformer models)
+- [[Seq2seq|BART/T5-like]] (also called _sequence-to-sequence_ Transformer models)
+How do Transformer work?
+- They have been trained on large amounts of raw text in a [[Self-Supervised learning|self-supervised]] fashion.
+- The general pretrained model then goes through a process called [[Transfer learning|transfer learning]]. During this process, the model is fine-tuned in a supervised way — that is, using human-annotated labels — on a given task.
 
 # Reference 
 - [Viblo](https://viblo.asia/p/transformers-nguoi-may-bien-hinh-bien-doi-the-gioi-nlp-924lJPOXKPM)

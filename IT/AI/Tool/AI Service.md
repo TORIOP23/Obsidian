@@ -13,4 +13,5 @@
 - [Hugging face](https://huggingface.co/) - build, deploy and train machine learning models
 ## Library
 - [[PyTorch]]
-- [[TensorFlow]] 
+- [[TensorFlow]]
+- [[Transformers library]] - HuggingFace

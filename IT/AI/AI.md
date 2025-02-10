@@ -29,7 +29,10 @@ A rational agent is one that acts so as to achieve the best outcome
 ## [[Knowledge, reasoning and planning]]
 ## [[Uncertain knowledge and reasoning]]
 ## [[ML]]
-## [[Communicating, perceiving, and acting]]
+## Communicating, perceiving, and acting
+### [[NLP]]
+### [[Computer Vision]]
+### Robotics
 
 ## [[AI Service]]
 
