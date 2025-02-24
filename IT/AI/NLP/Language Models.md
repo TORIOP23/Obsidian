@@ -38,3 +38,13 @@ Common model for POS tagging is **hidden Markov model (HMM)**
 ### Comparing language models 
 - unigram (1-gram) is very poor approximation
 - n-gram models - as n increases, they will produce language that is more fluent, but they tent to reproduce long passages from their training data verbatim (nguyên văn), rather than generate novel text 
+
+# LLM
+- Large Language Model
+3 kind of LLM 
+- Generic or raw language models
+- Instruction-tuned language models
+- Dialog-tuned language models
+## [[Transformers]]
+# Reference 
+- [LLM](https://www.elastic.co/what-is/large-language-models)

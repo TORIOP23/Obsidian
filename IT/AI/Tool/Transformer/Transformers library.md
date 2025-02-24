@@ -1,15 +1,14 @@
 # Pipeline function
 ![[pipeline.svg]]
-## Tokenizer
-- All this preprocessing needs to be done in exactly the same way as when the model was pretrained
-![[tokenizer.png]]
+## **[[Tokenizer]]**
 ```python
 from transformers import AutoTokenizer
 
 checkpoint = "distilbert-base-uncased-finetuned-sst-2-english"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 ```
-## Model 
+## **Model**
+![[Screenshot 2025-02-11 at 12.04.08 AM.png]]
 ```python
 from transformers import AutoModel
 
@@ -23,7 +22,7 @@ It generally has three dimensions:
 - **Batch size**: The number of sequences processed at a time (2 in our example).
 - **Sequence length**: The length of the numerical representation of the sequence (16 in our example).
 - **Hidden size**: The vector dimension of each model input.
-## Model heads: Making sense out of numbers
+### Model heads: Making sense out of numbers
 ![[transformer_and_head.svg]]
 - `*Model` (retrieve the hidden states)
 - `*ForCausalLM`
@@ -32,4 +31,9 @@ It generally has three dimensions:
 - `*ForQuestionAnswering`
 - `*ForSequenceClassification`
 - `*ForTokenClassification`
+### Config.json file
+- you’ll recognize the attributes necessary to build the model architecture. This file also contains some metadata, such as where the checkpoint originated and what Transformers version you were using when you last saved the checkpoint.
+### _pytorch_model.bin_
+- known as the _state dictionary_; it contains all your model’s weights
 ## Postprocessing the output
+- SoftMax

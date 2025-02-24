@@ -1,5 +1,3 @@
-
-
 # @if, @for, @switch Directives in Angular 17  
   
 ## \*ngIf Directive  
