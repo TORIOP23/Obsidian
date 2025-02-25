@@ -8,7 +8,7 @@ checkpoint = "distilbert-base-uncased-finetuned-sst-2-english"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 ```
 ## **Model**
-![[Screenshot 2025-02-11 at 12.04.08 AM.png]]
+![[load-model.png]]
 ```python
 from transformers import AutoModel
 
