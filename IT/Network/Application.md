@@ -8,3 +8,6 @@
 - Chuẩn hoá định dạng dữ liệu
 ### Session
 - Mở nhiều ứng dụng đồng thời, chia tài nguyên card mạng thành nhiều slot thời gian
+
+- [[Socket]]
+- 

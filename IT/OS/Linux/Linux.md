@@ -51,3 +51,5 @@ Display manager
 - Fedora có thể dùng cho máy tính để bàn và máy trạm, thậm chí máy chủ; dành cho những người mới tiếp cận PMTDNM hay những người đã có nhiều kinh nghiệm.
 - 2 distro phổ biến nhất được phát triển dựa trên Fedora là **Red Hat Enterprise Linux** - với đối tượng hướng tới là các doanh nghiệp và công ty lớn (tất nhiên là có tính phí) ; và **CentOS** - free và hướng tới đối tượng là người sử dụng cá nhân.
 ## Slackware
+
+# Other 

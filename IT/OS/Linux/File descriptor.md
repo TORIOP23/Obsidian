@@ -1,0 +1,2 @@
+- FD is a process unique identifier for a file or other input/output resource, such as pipe or network socket.
+- FD typicallly have non-negative integer values, with negative values being reserved to indicate "no value" or error conditions. 
