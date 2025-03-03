@@ -5,6 +5,7 @@ node_size: "6"
 ## Runtime environment
 - NodeJS
 - BunJS
+## [[Package Manger]]
 ## Web Server
 - Nginx
 - Apache
