@@ -17,7 +17,7 @@ node_size: "6"
 # Evaluation
 NLP Metrics
 ## GLUE benchmark
-## BLEU Score
+## [[BLEU Score]]
 ## WER - Word Error Rate
 
 # Optimize

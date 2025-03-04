@@ -1,2 +1,2 @@
-- 1991
+- Long short term memory - 1991
 - giải quyết vấn đề Gradient Vanishing trên RNNs

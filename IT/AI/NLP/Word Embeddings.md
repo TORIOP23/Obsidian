@@ -10,7 +10,12 @@
 	- **TF-IDF** (Term Frequency - Inverse Document Frequency)
 - Co-occurrence Matrix
 	- **GloVe** (Global Vectors)
-## Prediction-based embedding.
+## Prediction-based embedding. (neutral)
 - **Word2vec**: two-layer neural network-based algorithm
 - **fasText**
 - **ELMo** (Embeddings from Language Models)
+## Reduce dimension
+- [[SVD]]
+- PCA
+- Auto encoder
+- [[word2vec]]
