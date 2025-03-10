@@ -15,3 +15,4 @@
 - [[PyTorch]]
 - [[TensorFlow]]
 - [[Transformers library]] - HuggingFace
+- [[Pandas]] - exploring and manipulating data

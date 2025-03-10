@@ -25,6 +25,11 @@ FCP - First Contentful Paint - thể hiện thời gian từ lúc bắt đầu l
 ## Static Site Generator
 
 # Resources
+- [Frontend mentor](https://www.frontendmentor.io)
+- 
+
+
+
 - https://css-tricks.com/
 - https://flukeout.github.io/
 - https://polypane.app/css-specificity-calculator/
@@ -47,5 +52,4 @@ FCP - First Contentful Paint - thể hiện thời gian từ lúc bắt đầu l
 - https://www.uicoach.io/FindInspiration
 - https://a.singlediv.com/
 - https://developers.facebook.com/tools/debug
-- https://www.frontendmentor.io/
 - [Các công nghệ web thường sử dụng](https://w3techs.com/)

@@ -1,2 +1,0 @@
-- Byte-Pair Encoding - 1994
-- Để giải quyết các ký tự hiếm 
