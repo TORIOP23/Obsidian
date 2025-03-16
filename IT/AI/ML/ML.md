@@ -11,7 +11,7 @@ node_size: "6"
 ### Linear regression
 ### [[Logistic regression]]
 ### Decision Trees
-### Random forests
+### [[Random forests]]
 ### Boosted decision trees
 ### [[SVM]]
 ### [[Deep Learning|Neural networks - Deep Learning]]

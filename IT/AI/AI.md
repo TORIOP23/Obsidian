@@ -35,6 +35,7 @@ A rational agent is one that acts so as to achieve the best outcome
 ### Robotics
 
 ## [[AI Service]]
+## [[Evaluation]]
 
 # Reference
 - [[AIMA.pdf]]
