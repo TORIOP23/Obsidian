@@ -8,6 +8,9 @@
 | vLLM                           | LLM   | BE, expose API, handle multiple request very fast |
 # Other
 - [OpenRouter](https://openrouter.ai/) - interface for LLMs
+- [[MCP]] - Model Context Protocol
+- Multi-agent System - MAS
+	- Crew AI
 
 # Dev
 - [Hugging face](https://huggingface.co/) - build, deploy and train machine learning models
@@ -16,4 +19,5 @@
 - [[TensorFlow]]
 - [[Transformers library]] - HuggingFace
 - [[Pandas]] - exploring and manipulating data
+- `fairseq` - xây dựng, train, đánh giá mô hình NLP
 - **scikit-learn** - 

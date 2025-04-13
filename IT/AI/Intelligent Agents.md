@@ -12,7 +12,6 @@ in the environment, rather than according to how one thinks the agent should beh
 	- Chess: competitve multiagent
 - Deterministic vs nondeterministic (stochastic)
 	- If the next state of the environment is completely determined by the current state and the action executed by the agent(s), then we say the environment is deterministic; otherwise, it is nondeterministic
-	- 
 - Episodic vs sequential
 	- In sequential environments, the current decision could affect all future decisions
 - Static vs Dynamic
@@ -31,3 +30,4 @@ Goal-based agents act to achieve their goals
 Utility-based agents try to maximize their own expected “happiness.”
 ### Learning agents 
 All agents can improve their performance through learning
+

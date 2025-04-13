@@ -2,7 +2,7 @@
 - File transfer: FTP
 - Website: HTTP, HTTPS
 
-- DNS - Domain Name System 
+- [[DNS]] - Domain Name System 
 
 ### Presentation
 - Chuẩn hoá định dạng dữ liệu

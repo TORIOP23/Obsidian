@@ -1,6 +1,6 @@
 # Pipeline function
 ![[pipeline.svg]]
-## **[[Tokenizer]]**
+## [[Tokenizer]]
 ```python
 from transformers import AutoTokenizer
 

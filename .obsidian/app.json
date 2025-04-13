@@ -1,5 +1,17 @@
 {
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "vimMode": true,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false
 }

@@ -1,3 +1,0 @@
-- PHP, Nodejs
-- MySQL, PostgreSQL, Redis, Memcached
-- Caddy

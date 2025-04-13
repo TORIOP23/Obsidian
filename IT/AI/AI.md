@@ -34,7 +34,7 @@ A rational agent is one that acts so as to achieve the best outcome
 ### [[Computer Vision]]
 ### Robotics
 
-## [[AI Service]]
+## [[AI Mics]]
 ## [[Evaluation]]
 
 # Reference

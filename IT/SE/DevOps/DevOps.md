@@ -12,15 +12,16 @@ node_size: "6"
 
 ## [[Docker]]
 
-## Development Enviroment
-- [[XAMPP]]
-- [[ServBay]]
-- [[Laragon]]
+## [[Development Environment]]
 
-# [[Cloud]]
+## [[Cloud]]
 
-# VCS - Version Control System
-## [[Git]]
+## VCS - Version Control System
+- [[Git]]
+## Log & Monitoring
+- Datadog
+- ELK
+## [[Cloudflare]]
 
 # Reference
 - [GitHub - hocchudong/thuctap012017: Kho git thực tập mùa 04 @ OpenStack team](https://github.com/hocchudong/thuctap012017/tree/master)

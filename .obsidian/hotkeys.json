@@ -1,5 +1,4 @@
 {
-  "workspace:close-window": [],
   "workspace:close-others": [
     {
       "modifiers": [
@@ -7,6 +6,16 @@
         "Shift"
       ],
       "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "editor:toggle-checklist-status": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

@@ -1,0 +1,4 @@
+- Reactive Database
+- Document-relational database - which means you have tables with JSON like documents in them
+- Mutation functions
+- Query functions
