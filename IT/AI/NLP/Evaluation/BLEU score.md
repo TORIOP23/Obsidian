@@ -1,2 +1,0 @@
-- Đánh giá các thuật toán dịch máy. 
-- Bilingual Evaluation Understudy: chỉ số giá hệ thống song ngữ

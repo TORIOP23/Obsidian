@@ -1,0 +1,2 @@
+- Xử lý các từ ngoài vốn từ vựng
+- It embeds words by treating each word as being composed of character n-grams instead of a word whole.

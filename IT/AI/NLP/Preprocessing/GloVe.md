@@ -1,0 +1,3 @@
+- Global Vectors for Word Representation
+- Stanford researchers in 2014
+- GloVe incorporates local context and global statistical information by leveraging word co-occurrence counts across the entire corpus.

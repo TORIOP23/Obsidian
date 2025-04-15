@@ -1,0 +1,2 @@
+- Contextualized Word Vectors
+- Deep LSTM encoder from an attentional sequence-to-sequence model trained for machine translation to contextualize word vectors.

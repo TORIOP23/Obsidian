@@ -1,2 +1,0 @@
-# MAE
-- Mean absolute error

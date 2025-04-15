@@ -1,0 +1,4 @@
+- Embeddings from Language Model
+- AllenNLP in 2018
+- character-based encoding layer and two BiLSTM layers
+- ELMo represents words differently based on their usage in a sentence.

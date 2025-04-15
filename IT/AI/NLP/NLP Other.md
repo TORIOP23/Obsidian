@@ -3,6 +3,10 @@
 - Idea: Hierarchical syntactic structure
 **Probabilistic context-free grammar - PCFG** 
 - "context-free" means that any rule can be used in any context. 
+- Context Free Grammar
+	- Probabilistic Context Free Grammar
+	- Treebank (e,g Penn Treebank)
+- Context Sensitive Grammar
 ## Parsing
 - Process of analyzing a string of words to uncover its phrase structure
 
@@ -17,7 +21,9 @@
 ## Complications of Real Natural Language
 - Quantification
 - Pragmatics , ...
-
+## WordNet
+- Lexical Database
+- Synsets.
 # Glossary
 
 | Term        | Definition                              | Example              |

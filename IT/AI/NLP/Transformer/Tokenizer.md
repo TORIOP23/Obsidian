@@ -1,3 +1,4 @@
+- Splitting text into meaningful units called _tokens_.
 All this preprocessing needs to be done in exactly the same way as when the model was pretrained
 ![[tokenizer.png]]
 ## Word-based

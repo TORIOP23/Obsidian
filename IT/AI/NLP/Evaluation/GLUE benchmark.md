@@ -1,1 +1,0 @@
-- Đánh giá mức độ hiểu ngôn ngữ

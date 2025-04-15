@@ -1,3 +1,5 @@
+- Google - 2013
+![[continuous-bag-of-words-vs-skip-gram-1-1024x576.webp]]
 ## skip-grams
 ## CBOW
 
