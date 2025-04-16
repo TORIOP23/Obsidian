@@ -5,8 +5,8 @@
 # Recommender Systems
 # Text Summarization
 # Question Answering
-# NER - Named-Entity Recognition
-# Knowledge Graphs
+# [[NER|NER - Named-Entity Recognition]]
+# [[Knowledge Graphs]]
 # Machine Translation
 # Keyword and Keyphrase Extraction
 # Text Generation

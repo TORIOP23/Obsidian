@@ -16,7 +16,7 @@ KNN
 # Unsupervised learning
 ### Clustering algorithms
 - K-means Clustering
-- HDBSCAN
+- [[DBSCAN]]
 - Spectral Clustering
 ### Dimensionality Reduction
 - PCA - Principal Component Analysis

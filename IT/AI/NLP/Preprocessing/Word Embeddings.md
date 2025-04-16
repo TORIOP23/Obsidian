@@ -11,14 +11,14 @@
 ### [[Encoder models |BERT like]]
 
 
+---
+# Measuring the performance
+- MTEB - benchmark
 
 
-## Reduce dimension
-- [[SVD]]
-- PCA
-- Auto encoder
-- 
 # Reference
 - [Spot Intelligence](https://spotintelligence.com/2024/10/01/text-representation-a-simple-explanation-of-complex-techniques/)
 - [phamdinhkhanh](https://phamdinhkhanh.github.io/2019/04/29/ModelWord2Vec.html)
 - [NLPlanet](https://www.nlplanet.org/course-practical-nlp/01-intro-to-nlp/11-text-as-vectors-embeddings)
+
+[^1]: 

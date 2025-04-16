@@ -1,0 +1,1 @@
+- Nodes are entities and edges are relations between entities

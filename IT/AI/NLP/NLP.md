@@ -4,13 +4,9 @@ node_size: "6"
 - Natural language understanding (NLU)
 - Natural language generation (NLG)
 # [[NLP Other]]
-
 # [[Text Preprocessing]]
-
 # [[NLP Tasks]]
 ## [[LLM]]
-# Deep Learning for NLP
-## [[Transformers]]
 # [[NLP Evaluation |Evaluation]]
 # Optimize
 ## [[Prompt engineering]]

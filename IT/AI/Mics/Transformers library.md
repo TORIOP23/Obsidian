@@ -1,4 +1,11 @@
 # Pipeline function
+- [All task](https://huggingface.co/docs/transformers/en/main_classes/pipelines#transformers.pipeline.task) 
+
+```python
+from transformers import pipeline
+model = pipeline(task="sentiment-analysis")
+```
+
 ![[pipeline.svg]]
 ## [[Tokenizer]]
 ```python
@@ -37,3 +44,6 @@ It generally has three dimensions:
 - known as the _state dictionary_; it contains all your model’s weights
 ## Postprocessing the output
 - SoftMax
+# Reference
+- [`transformers`](https://huggingface.co/docs/transformers/index)
+- 

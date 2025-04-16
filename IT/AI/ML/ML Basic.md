@@ -10,3 +10,9 @@
 - For example, a neural network for a classification problem may be trained with the [backpropagation](https://en.wikipedia.org/wiki/Backpropagation) algorithm to minimize the [cross-entropy loss function](https://machinelearningmastery.com/cross-entropy-for-machine-learning/).
 - Some [common metrics for classification models](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) are accuracy, precision, recall, and the F1-score (i.e. the harmonic mean of precision and recall). Another common metric is the area under the receiver operating characteristic curve (AUC), which measures the ability of the model to discriminate between positive and negative cases.
 - Some [common metrics for regression models](https://machinelearningmastery.com/regression-metrics-for-machine-learning/) are the Mean Squared Error (**MSE**), Root Mean Squared Error (**RMSE**), and Mean Absolute Error (**MAE**).
+## Reduce dimension
+- [[SVD]]
+- PCA
+- UMAP
+- t-SNE
+- Auto encoder

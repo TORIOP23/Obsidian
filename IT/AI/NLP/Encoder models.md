@@ -3,8 +3,8 @@
 - Tasks: Sentence classification, named entity recognition, extractive question answering
 - **Train**: **masked language modelling** (MLM) approach
 Example
-- ALBERT
+- **ALBERT** - A Lite BERT for Self-supervised Learning of Language Representations
 - BERT
 - DistilBERT
 - ELECTRA
-- RoBERTa
+- **RoBERTa** - Robustly Optimized BERT Pretraining Approach

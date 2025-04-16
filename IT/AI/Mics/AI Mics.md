@@ -13,11 +13,18 @@
 	- Crew AI
 
 # Dev
-- [Hugging face](https://huggingface.co/) - build, deploy and train machine learning models
-## Library
+- [[Hugging face]] - build, deploy and train machine learning models
+# Library
 - [[PyTorch]]
 - [[TensorFlow]]
 - [[Transformers library]] - HuggingFace
 - [[Pandas]] - exploring and manipulating data
 - `fairseq` - xây dựng, train, đánh giá mô hình NLP
+- `faiss` - Facebook AI Similarity Search
 - **scikit-learn** - 
+- `underthesea` - Vietnamese NLP Toolkit
+# Reference
+
+| Name                                  | Categories |     |
+| ------------------------------------- | ---------- | --- |
+| [NLPlanet](https://www.nlplanet.org/) | `NLP`      |     |
