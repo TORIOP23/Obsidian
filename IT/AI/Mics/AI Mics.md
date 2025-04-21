@@ -15,16 +15,16 @@
 # Dev
 - [[Hugging face]] - build, deploy and train machine learning models
 # Library
-- [[PyTorch]]
-- [[TensorFlow]]
-- [[Transformers library]] - HuggingFace
-- [[Pandas]] - exploring and manipulating data
-- `fairseq` - xây dựng, train, đánh giá mô hình NLP
-- `faiss` - Facebook AI Similarity Search
-- **scikit-learn** - 
-- `underthesea` - Vietnamese NLP Toolkit
-# Reference
+| Thư viện / Công cụ       | Mô tả                                      |
+| ------------------------ | ------------------------------------------ |
+| [[PyTorch]]              |                                            |
+| [[TensorFlow]]           |                                            |
+| [[Transformers library]] | HuggingFace                                |
+| [[Pandas]]               | Khám phá và xử lý dữ liệu                  |
+| `fairseq`                | Xây dựng, huấn luyện, đánh giá mô hình NLP |
+| `faiss`                  | Facebook AI Similarity Search              |
+| `scikit-learn`           |                                            |
+| `underthesea`            | Bộ công cụ NLP cho tiếng Việt              |
+| `seaborn`                | Data Visualization                         |
 
-| Name                                  | Categories |     |
-| ------------------------------------- | ---------- | --- |
-| [NLPlanet](https://www.nlplanet.org/) | `NLP`      |     |
+# [[AI Reference]]

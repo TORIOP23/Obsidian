@@ -1,0 +1,3 @@
+- It creates clusters by placing a number of points, called **`centroids`**, inside the feature-space.
+- Each point in the dataset is assigned to the cluster of whichever centroid it's closest to. The "k" in "k-means" is how many centroids (that is, clusters) it creates. 
+- You define the k yourself.

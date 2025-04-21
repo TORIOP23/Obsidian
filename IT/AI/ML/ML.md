@@ -15,11 +15,11 @@ KNN
 
 # Unsupervised learning
 ### Clustering algorithms
-- K-means Clustering
+- [[K-means Clustering]]
 - [[DBSCAN]]
 - Spectral Clustering
 ### Dimensionality Reduction
-- PCA - Principal Component Analysis
+- [[PCA|PCA - Principal Component Analysis]]
 - UMAP
 # Reinforcement learning
 - Value Iteration
