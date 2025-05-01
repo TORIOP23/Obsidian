@@ -16,7 +16,9 @@
 
 # CLI
 
-| Command                        | Describe            |
-| ------------------------------ | ------------------- |
-| `ng g c folder/component name` | Generate components |
-|                                |                     |
+| Command                                            | Describe            |
+| -------------------------------------------------- | ------------------- |
+| `ng g c folder/component name`                     | Generate components |
+| `ng new <project name>`                            | Create workspace    |
+| `ng new MultiProject --create-application="false"` | No project init     |
+| `ng g application NoStandalone --no-standalone`    |                     |

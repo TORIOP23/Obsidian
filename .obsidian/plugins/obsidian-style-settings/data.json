@@ -11,5 +11,19 @@
   "minimal-style@@h5-color@@dark": "#5C6BC0",
   "minimal-style@@h6-color@@light": "#9E9E9E",
   "minimal-style@@h6-color@@dark": "#9E9E9E",
-  "minimal-style@@h1-l": true
+  "minimal-style@@h1-l": true,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "minimal-advanced@@cursor": "pointer",
+  "minimal-advanced@@animations": "fast-animations",
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-style@@row-lines": false,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-index",
+  "minimal-style@@col-lines": true
 }

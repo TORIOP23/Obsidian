@@ -1,13 +1,24 @@
+- IMF
+- FTSE Russell
+# [[Finance Glossary]]
+# Fundamental analysis
+- [[CAPM]]
+- [[Fama-French Three-Factor Model]]
+
+# Technical Analysis
 - [[MA]]
 - [[Bollinger Bands]]
 - [[RSI - RS]]
+# Risk & Performance Metrics
 - Tỷ lệ Sharpe
-- [[Quantitive Trading]]
+# [[Quantitive Trading]]
 # Traditional
-## [[Finance Fundamental]]
-
 ## [[Financial Statement]]
-# Coin
+# Crypto
+
+# Company
+- [[Thomson Reuters]]
+- [[LSEG]]
 
 # Reference
 - [Kênh thông tin kinh tế - tài chính Việt Nam](https://cafef.vn/)

@@ -13,5 +13,6 @@
   "rightToLeft": false,
   "tabSize": 4,
   "newFileLocation": "current",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./"
 }

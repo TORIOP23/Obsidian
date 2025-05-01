@@ -1,0 +1,1 @@
+- Mẫu **W-8BEN** là một biểu mẫu thuế của Hoa Kỳ do **Sở Thuế vụ Mỹ (IRS)** phát hành. Mẫu này được sử dụng bởi **cá nhân không phải công dân hoặc cư dân Hoa Kỳ** để:

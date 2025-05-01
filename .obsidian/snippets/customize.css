@@ -1,0 +1,7 @@
+.wide {
+  --file-line-width: 1000px;
+
+  .cm-embed-block.cm-table-widget.markdown-rendered {
+    margin-inline: var(--content-margin) !important;
+  }
+}

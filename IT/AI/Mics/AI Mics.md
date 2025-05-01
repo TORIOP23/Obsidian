@@ -27,4 +27,6 @@
 | `underthesea`            | Bộ công cụ NLP cho tiếng Việt              |
 | `seaborn`                | Data Visualization                         |
 
+# [[AI Research]]
+
 # [[AI Reference]]

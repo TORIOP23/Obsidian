@@ -5,6 +5,7 @@ node_size: "6"
 ## Tools
 - [Typst](https://typst.app/)
 - Overleaf
+- [[LaTex]]
 
 # Requirements
 - Problem Statement - Tài liệu mô tả bài toán

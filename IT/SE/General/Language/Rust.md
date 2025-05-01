@@ -1,0 +1,2 @@
+- Rustup
+- Cargo is package manager
