@@ -1,3 +1,4 @@
+- EMH - Efficient Market Hypothesis
 - [ICB](https://en.wikipedia.org/wiki/Industry_Classification_Benchmark) là hệ thống phân ngành Industry classification benchmark
 
 |                                  | Stock                 | Bond                  |

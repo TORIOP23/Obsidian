@@ -34,5 +34,14 @@
       "key": "1"
     }
   ],
-  "workspace:goto-tab-1": []
+  "workspace:goto-tab-1": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:goto-tab-2": []
 }

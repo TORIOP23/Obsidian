@@ -11,6 +11,8 @@ node_size: "6"
 - XGBoost (mô hình cây tăng cường)
 ### [[SVM]]
 KNN
+Native Bayes
+Maximum Entropy Models (MaxEnt)
 ## [[Deep Learning|Neural networks - Deep Learning]]
 
 # Unsupervised learning

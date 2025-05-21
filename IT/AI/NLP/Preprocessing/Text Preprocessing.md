@@ -18,8 +18,9 @@
 ## [[Word Embeddings]]
 - continuous vectors in a multidimensional space.
 
-# Library
-- `nltk`, 
+# Other
+- `nltk`
+- [[VnCoreNLP]]
 # Reference 
 - [Spotintelligence](https://spotintelligence.com/2024/10/01/text-representation-a-simple-explanation-of-complex-techniques/)
 - 

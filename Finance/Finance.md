@@ -12,6 +12,10 @@
 # Risk & Performance Metrics
 - Tỷ lệ Sharpe
 # [[Quantitive Trading]]
+- ARMA - đường tự hồi quy trung bình trượt
+- [[ARIMA]]
+- **ARCH** - mô hình phương sai thay đổi có điều kiện tự hồi quy
+- **GARCH** - đường trung bình động thu hồi tổng hợp
 # Traditional
 ## [[Financial Statement]]
 # Crypto
