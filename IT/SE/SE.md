@@ -9,4 +9,8 @@ node_size: "100"
 # [[DevOps]]
 # [[Document]]
 # [[Domain model]]
+# CMS
+- OneEntry Headless CMS
+- Strapi
+
 

@@ -39,7 +39,7 @@ class GiftCard {
 - Có thể làm quà tặng
 ## Cashback
 - Hoàn tiền
-
+# [[Payment Gateway]]
 # Reference
 - [Quora](https://www.quora.com/What-is-the-difference-between-coupon-codes-and-gift-cards-I-know-gift-cards-are-hard-real-things-and-coupons-are-just-codes-but-are-there-any-other-differences)
 - 
