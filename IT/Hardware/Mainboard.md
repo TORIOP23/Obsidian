@@ -1,0 +1,1 @@
+- Phải tương thích với CPU
