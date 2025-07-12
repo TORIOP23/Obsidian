@@ -24,6 +24,11 @@ FCP - First Contentful Paint - thể hiện thời gian từ lúc bắt đầu l
 
 ## Static Site Generator
 
+
+## Bug Safari Ip
+https://samuelkraft.com/blog/safari-15-bottom-tab-bars-web
+
+
 # Resources
 - [Frontend mentor](https://www.frontendmentor.io)
 - 

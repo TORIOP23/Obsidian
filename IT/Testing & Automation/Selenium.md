@@ -1,6 +1,3 @@
-- Automates browsers
-- Tạo ra các đoạn Script tự động tương tác với web browser
-
 Nó gồm bốn thành phần bên dưới:
 - Selenium Integrated Development Environment (IDE)
 - Selenium Remote Control (RC)

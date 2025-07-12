@@ -1,2 +1,3 @@
 - Rustup
 - Cargo is package manager
+- Safe than C++
