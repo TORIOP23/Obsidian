@@ -10,14 +10,6 @@
   ],
   "workspace:close-window": [],
   "editor:toggle-checklist-status": [],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -26,22 +18,22 @@
       "key": "Enter"
     }
   ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "1"
+      "key": "L"
     }
   ],
-  "workspace:goto-tab-1": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "2"
+      "key": "R"
     }
-  ],
-  "workspace:goto-tab-2": []
+  ]
 }

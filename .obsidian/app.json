@@ -2,7 +2,7 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "vimMode": true,
+  "vimMode": false,
   "foldIndent": true,
   "readableLineLength": true,
   "strictLineBreaks": true,

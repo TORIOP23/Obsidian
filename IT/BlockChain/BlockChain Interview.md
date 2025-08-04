@@ -1,0 +1,4 @@
+- ETH smart contract là gì ?
+	- Các ứng dụng nhỏ chạy trên ETH thông qua EVM
+- Điều đặc biệt nhất của SMC ?
+	- Immutable

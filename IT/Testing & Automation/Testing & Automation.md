@@ -2,7 +2,7 @@
 - Tạo ra các đoạn Script tự động tương tác với web browser
 
 ## [[Selenium]]
-## [[Playwright]]a
+## [[Playwright]]
 
 # Workflow automation tool
 

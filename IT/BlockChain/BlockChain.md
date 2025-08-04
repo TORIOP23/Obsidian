@@ -87,3 +87,5 @@ Tính năng
 - Quyền riêng tư: Để triển khai và tương tác với DApp, user không cần cung cấp danh tính ở thế giới thực.
 - Phi tập trung và an toàn hơn nhờ mật mã: Tất cả thông tin của DApp đều được bảo mật bằng mật mã và được lưu trữ trên một blockchain công khai, phi tập trung, được vận hành bởi nhiều người dùng (hoặc các node).
 - Vận hành một cách độc lập: Dapp chạy độc lập mà không cần sự tham gia của bên thứ ba
+
+# [[BlockChain Resource]]

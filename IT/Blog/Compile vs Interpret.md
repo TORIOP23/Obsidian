@@ -1,0 +1,2 @@
+- Biên dịch là đọc hết tất cả rồi dịch lại
+- Thông dịch là đọc đến đâu dịch tới đó

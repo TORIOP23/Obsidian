@@ -6,7 +6,12 @@
 ### Fish
 - Ra đời 2005
 - Không tương thích với bash
+## Shell Prompt
+- Starship
+
 ## Terminal Emulator
+- Ghostty
+- Terminal
 ### Leaderboard
 - https://www.tbench.ai/leaderboard
 ### Warp

@@ -1,0 +1,2 @@
+- Người phát minh: Vitalik Buterin, Charles Hoskinson
+- Ethereum Virtual Machine (EVM)

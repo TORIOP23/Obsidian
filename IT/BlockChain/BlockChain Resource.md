@@ -1,0 +1,1 @@
+- [Youtube - Quân IT](https://www.youtube.com/playlist?list=PLTkdJVCW4t6Ap5F3Bul1kv1ZFeJ4loV7X) - Bài 2
